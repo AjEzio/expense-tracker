@@ -53,8 +53,4 @@ The first time you run the app, that file is created automatically with a header
 | `storage.py` | Makes sure `data/expenses.csv` exists. |
 | `validate_acc.py` | Checks input (for example date format). |
 
-## Next steps for you
-
-- Change labels or add a menu option as you learn more Python.
-- After editing files, use **Git** to save changes: `git add`, `git commit`, `git push` to update your copy on GitHub.
 
